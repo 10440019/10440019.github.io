@@ -9,7 +9,7 @@ body{
     }
 }
 header {
-    background-image: url(/images/10440019b.png);
+    background-image: url(/images/10440019b.png)repeat-x;
 }
 #myHeader {
   width: 1015px;
