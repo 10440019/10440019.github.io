@@ -8,7 +8,7 @@ body{
       font-family: monospace;
     }
 header {
-    background-image: url(/images/111.png)repeat-x;
+    background-image:url(/images/111.png)repeat-x;
 }
 #myHeader {
   width: 1015px;
@@ -46,4 +46,10 @@ a.sitetitle {
     height: 60px;
     line-height: 60px;
     margin-right: 20px;
+}
+#mainContent {
+    clear: both;
+    width: 1015px;
+    margin: 0 auto;
+    padding: 5px 10px 0;
 }
