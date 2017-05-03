@@ -69,3 +69,40 @@ a.sitetitle {
 .right {
 	float: right;
 }
+#myContent{
+	width:700px;
+}
+#mySider{
+	width:300px;
+}
+.h30{
+	height:30px;
+}
+.clear{
+	clear:both;
+}
+.nav_up {
+    display: block;
+    margin: 0 auto;
+    width: 87px;
+    height: 37px;
+    cursor: pointer;
+    background: url(/images/gotop.png);
+}
+footer {
+    clear: both;
+    background: #80E28C;
+    width: 100%;
+}
+
+#myFooter {
+    width: 980px;
+    margin: 0 auto;
+    padding: 40px 10px;
+}
+
+.col_4 {
+    width: 180px;
+    float: left;
+    margin: 0 30px;
+}
